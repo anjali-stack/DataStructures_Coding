@@ -1,0 +1,13 @@
+public class SumOfTwoNumbers {
+    public static void main(String[] args) {
+        // Declare two number variables
+        int number1 = 5; // You can change this value
+        int number2 = 10; // You can change this value
+        
+        // Calculate the sum of number1 and number2
+        int sum = number1 + number2;
+        
+        // Print the result
+        System.out.println("The sum of " + number1 + " and " + number2 + " is: " + sum);
+    }
+}
